@@ -5,7 +5,7 @@ This package seeks to help C# developers implement the various MPESA APIs withou
 
 ## Features
 1.	Supports HTTP request.
-2.	Support HTTP response
+2.	Support HTTP response.
 
 ## Requirements
 Microsoft .NET Framework 4.6.2 or higher, Microsoft Visual C++ 2017 Redistributable (x86). It is yet to be tested with lower versions of the above.
