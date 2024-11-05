@@ -4,7 +4,7 @@
 This package seeks to help C# developers implement the various MPESA APIs without much Challenge. It is based on the REST API whose documentation is available on https://developer.safaricom.co.ke.
 
 ## Features
-1.	Supports HTTP request
+1.	Supports HTTP request.
 2.	Support HTTP response
 
 ## Requirements
