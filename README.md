@@ -72,7 +72,7 @@ streamWriter.Close();
 ```
 HttpWebResponse response = (HttpWebResponse)request.GetResponse();
 ```
-Note
+Note 📝 
 
 After you are finished with a WebResponse object, you must close it by calling the Close method. 
 ```
