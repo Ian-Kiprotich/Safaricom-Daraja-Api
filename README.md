@@ -88,7 +88,6 @@ Stream receiveStream = response.GetResponseStream();
 ```
 After reading the data from the response, you must either close the response stream using the ```Stream. Close readStream.Close();``` method or close the response using the WebResponse.Close method ```response.Close();```. It is not necessary to call the Close method on both the response stream and the WebResponse, but doing so is not harmful
 
-
 How to use ?
 1.	Insert data to the API request body as stated above example.
 2.	Insert the actual token to ```"ACCESS_TOKEN";```
