@@ -19,6 +19,7 @@ Microsoft .NET Framework 4.6.2 or higher, Microsoft Visual C++ 2017 Redistributa
    HttpWebRequest request = (HttpWebRequest)WebRequest.Create(baseUrl);
 ```
 
+
 ### *Note*
 The .NET Framework provides protocol-specific classes derived from WebRequest and WebResponse for URIs that begin with "http:" or "https:'' To access resources using other protocols, you must implement protocol-specific classes that derive from WebRequest and WebResponse. 
 
